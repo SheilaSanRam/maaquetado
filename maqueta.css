@@ -1,0 +1,115 @@
+body{
+    border:indigo solid 10px;
+}
+
+#s1{
+    border:rgb(109, 28, 8) solid 10px;
+}
+#s2{
+    border:rgb(12, 92, 36) solid 10px;
+}
+#s3{
+    border:rgb(192, 60, 141) solid 10px;
+}
+.galeria{
+    border:green solid 10px;
+    display:flex;
+    flex-flow:row nowrap;
+    align-content:space-around;
+}
+.g{
+    border:pink solid 10px;
+    display:flex;
+    flex-flow:column nowrap;
+    align-content:space-around;
+    width:33%;
+}
+.gg{
+    border:yellow solid 10px;
+    height:50%
+}
+#s4{
+    border:rgb(0, 100, 130) solid 10px;
+    display:flex;
+    flex-flow:row nowrap;
+    align-content:space-around;
+}
+.text{
+    border:rgb(192, 60, 141) solid 10px;
+    display:flex;
+    align-items:flex-start;
+}
+.formulario{
+    border:rgb(12, 6, 17) solid 10px;
+    display:flex;
+    flex-flow: column nowrap;
+    align-content:space-around;
+    width:50%;
+}
+.campo{
+    border:rgb(0, 100, 130) solid 10px;
+    background-color:grey;
+    color:grey;
+    width:90%;
+}
+.leyenda{
+    border:rgb(0, 100, 130) solid 10px;
+    align-items: center;
+
+}
+.botones{
+    border:red solid 10px;
+    display:flex;
+    flex-flow:row nowrap;
+    align-content: space-between;
+}
+.boton2{
+    border:blue solid 10px;
+    width:15%;    
+}
+#s5{
+    border:rgb(12, 6, 17) solid 10px;
+    display:flex;
+    flex-flow:column nowrap;
+    align-content: stretch;
+}
+.texth{
+    border:rgb(0, 100, 130) solid 10px;
+    display:flex;
+    flex-flow:row nowrap;
+    align-content: stretch;
+}
+
+.text{
+    border:rgb(0, 100, 130) solid 10px;
+    display:flex;
+    flex-flow:column nowrap;
+    align-content: stretch;
+}
+
+.barra{
+    border:rgb(82, 14, 56) solid 10px;
+    align-content: center;
+
+}
+
+#s6{
+    border:rgb(0, 130, 17) solid 10px;
+    display: flex;
+    flex-flow: row nowrap;
+    align-content: stretch;
+}
+
+.subtitulo{
+    border:rgb(0, 100, 130) solid 10px;
+    font-size: 35px;
+    padding:1% ;
+}
+.mini-p{
+    border:rgb(109, 28, 8) solid 10px;
+    padding:3%;
+}
+.ii{
+    border:rgb(12, 6, 17) solid 10px;
+    width:30%;
+}
